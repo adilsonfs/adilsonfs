@@ -21,6 +21,9 @@ Habilidades
 ![linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 
+💻 Workspace Spec
+
+![APPLE LAPTOP](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 
 🤜 Group
 
