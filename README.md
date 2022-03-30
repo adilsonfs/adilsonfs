@@ -24,7 +24,7 @@ Habilidades
 💻 Workspace Spec
 
 ![APPLE LAPTOP](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
-
+https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white
 🤜 Group
 
 ![MICROSOFIT TEAMS](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
