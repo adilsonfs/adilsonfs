@@ -22,4 +22,10 @@ Habilidades
 
 
 
+🤜 Group
+
+![MICROSOFIT TEAMS](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+
+
+
 ![Adilsonfs stats](https://github-readme-stats.vercel.app/api?username=Adilsonfs&show_icons=true&theme=dracuka)
