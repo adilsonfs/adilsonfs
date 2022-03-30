@@ -1,5 +1,11 @@
  Adilson Santos 👋
-
+ 
+ Prestação de suporte a Usuários e infraestrutura, instalação, configurações, atualizações de PCs e notebooks, montagem de rede, adm de rede, soluções, atendimento a domicilio, segurança, cabeamento, reposição de componentes.
+ 
+ Disponibilidade viagens, mudança de cidade, horário noturno.
+ Inglês Técnico.
+ 
+ 
 Redes Sociais
 
  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adilsonfs)
