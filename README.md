@@ -25,7 +25,7 @@ Habilidades
 💻 Workspace Spec
 
 ![APPLE LAPTOP](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
-![APPLE MACBOOK PRO 2012](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white🤜 Group)
+![APPLE MACBOOK PRO 2012](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white
 ![LENOVO LAPTOP](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white)
 
 
