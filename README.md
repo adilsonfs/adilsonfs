@@ -1,10 +1,7 @@
- Adilson Santos 👋
- 
- Prestação de suporte a Usuários e infraestrutura, instalação, configurações, atualizações de PCs e notebooks, montagem de rede, adm de rede, soluções, atendimento a domicilio, segurança, cabeamento, reposição de componentes.
- 
- Disponibilidade viagens, mudança de cidade, horário noturno.
- Inglês Técnico.
- 
+ Olá, sou Adilson Santos! Bem-Vindo ao meu perfil 😁
+🌱 Cursando Técnico de TI no Senac tatuapé.
+⚡ Buscando sempre evoluir.
+
  
 Redes Sociais
 
