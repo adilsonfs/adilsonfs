@@ -1,8 +1,14 @@
  Olá, sou Adilson Santos! Bem-Vindo ao meu perfil 😁
  __________________________________________________________________________________________________________________________________________________
  
- 🌱 Cursando Técnico de TI no Senac tatuapé.
+    Cursando Técnico de TI no Senac tatuapé.
  
+    Montagem e Manutenção de Micro/Senai.
+ 
+    Criação de Web Sites – HTML/Senac.
+
+    Photoshop CC/Senac.
+    
   ⚡ Buscando sempre evoluir.
   _________________________________________________________________________________________________________________________________________________
 
