@@ -1,12 +1,9 @@
- Olá, sou Adilson Santos! 
+ Olá, sou Adilson Santos! Bem-Vindo ao meu perfil 😁
+ __________________________________________________________________________________________________________________________________________________
  
- Bem-Vindo ao meu perfil 😁
- 
- 
-🌱 Cursando Técnico de TI no Senac tatuapé.
-
-
-⚡ Buscando sempre evoluir.
+ 🌱 Cursando Técnico de TI no Senac tatuapé.
+  ⚡ Buscando sempre evoluir.
+  _________________________________________________________________________________________________________________________________________________
 
  
 Redes Sociais
